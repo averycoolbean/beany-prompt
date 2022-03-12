@@ -8,6 +8,7 @@ credits go out to this gist that did most of the work:
 https://gist.github.com/knadh/123bca5cfdae8645db750bfb49cb44b0
 
 i also took the cwd snippet from god knows where and really cant remember, probably some stackoverflow post on the basics of zsh prompts
+
 oh and i took the specific glyphs from https://github.com/octarect/clarity.zsh cause i thought it looks nice and reminded mo of some repl i used once and cant remember what it is
 
 frankly i contributed nothing to this, in retrospect its just plain plagiarism so uh... 
